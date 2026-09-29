@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/ahmedramadanmain/Fronend_Portfolio/static/css/main.935afcb9.css",
-    "main.js": "/ahmedramadanmain/Fronend_Portfolio/static/js/main.7f13d9e0.js",
-    "static/media/pexels-cottonbro-5473962.jpg": "/ahmedramadanmain/Fronend_Portfolio/static/media/pexels-cottonbro-5473962.d324e969ec80a74b9bcb.jpg",
-    "static/media/pexels-laura-tancredi-7078668.jpg": "/ahmedramadanmain/Fronend_Portfolio/static/media/pexels-laura-tancredi-7078668.d634bc03de5c3379f30a.jpg",
-    "static/media/frontend_webdeveloper.jpg": "/ahmedramadanmain/Fronend_Portfolio/static/media/frontend_webdeveloper.b9f9aa89ab8aa2920145.jpg",
-    "static/media/css.png": "/ahmedramadanmain/Fronend_Portfolio/static/media/css.19c8605d6b2861f5fbe0.png",
-    "static/media/react.png": "/ahmedramadanmain/Fronend_Portfolio/static/media/react.ef28a7569ef18dd72579.png",
-    "static/media/Become_a_Front_End_Developer.avif": "/ahmedramadanmain/Fronend_Portfolio/static/media/Become_a_Front_End_Developer.31a8a87096e771a09b1b.avif",
-    "static/media/front-end.webp": "/ahmedramadanmain/Fronend_Portfolio/static/media/front-end.07f07937317ea27111a6.webp",
-    "static/media/helvetica-neu.ttf": "/ahmedramadanmain/Fronend_Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/opleiding_frontenddeveloper.png": "/ahmedramadanmain/Fronend_Portfolio/static/media/opleiding_frontenddeveloper.0256923683259a2e5cbc.png",
-    "static/media/logo_sub.png": "/ahmedramadanmain/Fronend_Portfolio/static/media/logo_sub.19f3ab25ab15fd848b30.png",
-    "static/media/LaBelleAurore.woff2": "/ahmedramadanmain/Fronend_Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-s.png": "/ahmedramadanmain/Fronend_Portfolio/static/media/logo-s.bfc9f81846bda5218dab.png",
-    "static/media/CoolveticaRg-Regular.woff": "/ahmedramadanmain/Fronend_Portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
-    "static/media/CoolveticaRg-Regular.woff2": "/ahmedramadanmain/Fronend_Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "static/media/typescript.svg": "/ahmedramadanmain/Fronend_Portfolio/static/media/typescript.a6305a733dd55243980aec55f96f70c5.svg",
-    "index.html": "/ahmedramadanmain/Fronend_Portfolio/index.html",
-    "main.935afcb9.css.map": "/ahmedramadanmain/Fronend_Portfolio/static/css/main.935afcb9.css.map",
-    "main.7f13d9e0.js.map": "/ahmedramadanmain/Fronend_Portfolio/static/js/main.7f13d9e0.js.map"
+    "main.css": "/Fronend_Portfolio/static/css/main.9eab467f.css",
+    "main.js": "/Fronend_Portfolio/static/js/main.895b1a79.js",
+    "static/media/pexels-cottonbro-5473962.jpg": "/Fronend_Portfolio/static/media/pexels-cottonbro-5473962.d324e969ec80a74b9bcb.jpg",
+    "static/media/pexels-laura-tancredi-7078668.jpg": "/Fronend_Portfolio/static/media/pexels-laura-tancredi-7078668.d634bc03de5c3379f30a.jpg",
+    "static/media/frontend_webdeveloper.jpg": "/Fronend_Portfolio/static/media/frontend_webdeveloper.b9f9aa89ab8aa2920145.jpg",
+    "static/media/css.png": "/Fronend_Portfolio/static/media/css.19c8605d6b2861f5fbe0.png",
+    "static/media/react.png": "/Fronend_Portfolio/static/media/react.ef28a7569ef18dd72579.png",
+    "static/media/Become_a_Front_End_Developer.avif": "/Fronend_Portfolio/static/media/Become_a_Front_End_Developer.31a8a87096e771a09b1b.avif",
+    "static/media/front-end.webp": "/Fronend_Portfolio/static/media/front-end.07f07937317ea27111a6.webp",
+    "static/media/helvetica-neu.ttf": "/Fronend_Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/opleiding_frontenddeveloper.png": "/Fronend_Portfolio/static/media/opleiding_frontenddeveloper.0256923683259a2e5cbc.png",
+    "static/media/logo_sub.png": "/Fronend_Portfolio/static/media/logo_sub.19f3ab25ab15fd848b30.png",
+    "static/media/LaBelleAurore.woff2": "/Fronend_Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/Fronend_Portfolio/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff": "/Fronend_Portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/Fronend_Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/typescript.svg": "/Fronend_Portfolio/static/media/typescript.a6305a733dd55243980aec55f96f70c5.svg",
+    "index.html": "/Fronend_Portfolio/index.html",
+    "main.9eab467f.css.map": "/Fronend_Portfolio/static/css/main.9eab467f.css.map",
+    "main.895b1a79.js.map": "/Fronend_Portfolio/static/js/main.895b1a79.js.map"
   },
   "entrypoints": [
-    "static/css/main.935afcb9.css",
-    "static/js/main.7f13d9e0.js"
+    "static/css/main.9eab467f.css",
+    "static/js/main.895b1a79.js"
   ]
 }
