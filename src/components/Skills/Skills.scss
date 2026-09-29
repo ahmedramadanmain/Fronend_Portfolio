@@ -1,0 +1,72 @@
+.skills-page {
+  .text-zone {
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 600px;
+    max-height: 90%;
+    margin-left: 20px;
+    word-break: break-all;
+    @media (max-width: 767px) {
+      width: calc(100% - 20px);
+      left: 0;
+      margin: 0 10px;
+    }
+  }
+  .text-animate-hover {
+    min-width: 10px;
+    display: inline-block;
+    animation-fill-mode: both;
+    &:hover {
+      animation: rubberBand 1s;
+      color: #fff;
+      cursor: pointer;
+    }
+  }
+  h1 {
+    color: #ffd700;
+    font-size: 53px;
+    margin: 0px;
+    font-family: "Coolvetica";
+    font-weight: 400;
+    &::before {
+      content: "<h1>";
+      font-family: "La Belle Aurore";
+      color: #ffd700;
+      font-size: 18px;
+      position: absolute;
+      margin-top: -40px;
+      left: 15px;
+      opacity: 0.6;
+      animation: fadeIn 1s 1.7s backwards;
+    }
+    &::after {
+      content: "</h1>";
+      font-family: "La Belle Aurore";
+      color: #ffd700;
+      font-size: 18px;
+      opacity: 0.6;
+      margin-left: 20px;
+      position: absolute;
+      left: 0;
+      bottom: 170px;
+      margin-top: 30px;
+      animation: fadeIn 1s 1.7s backwards;
+    }
+  }
+  .info {
+    max-width: 500px;
+    color: #fff;
+    margin: 3rem 0;
+    p {
+      line-height: 1.7;
+      font-weight: bold;
+      font-family: sans-serif;
+      span {
+        color: #ffd700;
+        font-weight: bold;
+      }
+    }
+  }
+}

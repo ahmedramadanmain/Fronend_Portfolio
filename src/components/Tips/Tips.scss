@@ -1,0 +1,73 @@
+.tips-page {
+  .text-zone {
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 600px;
+    max-height: 90%;
+    margin-left: 20px;
+    @media (max-width: 767px) {
+      width: calc(100% - 10px);
+      left: 0;
+      margin-left: 10px;
+    }
+  }
+  .text-animate-hover {
+    min-width: 10px;
+    display: inline-block;
+    animation-fill-mode: both;
+    &:hover {
+      animation: rubberBand 1s;
+      color: #fff;
+      cursor: pointer;
+    }
+  }
+  h1 {
+    color: #ffd700;
+    font-size: 53px;
+    margin: 0px;
+    font-family: "Coolvetica";
+    font-weight: 400;
+    &::before {
+      content: "<h1>";
+      font-family: "La Belle Aurore";
+      color: #ffd700;
+      font-size: 18px;
+      position: absolute;
+      margin-top: -40px;
+      left: 15px;
+      opacity: 0.6;
+      animation: fadeIn 1s 1.7s backwards;
+    }
+    &::after {
+      content: "</h1>";
+      font-family: "La Belle Aurore";
+      color: #ffd700;
+      font-size: 18px;
+      opacity: 0.6;
+      margin-left: 20px;
+      position: absolute;
+      left: 0;
+      bottom: -25px;
+      margin-top: 30px;
+      animation: fadeIn 1s 1.7s backwards;
+    }
+  }
+  .images {
+    max-width: 90%;
+    margin: 1rem 0;
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    @media (max-width: 767px) {
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    img {
+      width: 100px;
+    }
+  }
+}
